@@ -1,5 +1,5 @@
 # nlp
-natural-language-process
+natural-language-process\n
 First：processing the dataset and split the dataset(train data，test data)
 second:building the model,which is lstm model,and defining the hparameters
 Third:initaling the variables and use the tf.Session() to run the model
